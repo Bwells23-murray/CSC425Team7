@@ -1,0 +1,54 @@
+CSC425 Deliverable 2: User Research & Problem Definition 
+ Student Name: Brooklyn Wells 
+ Branch Name: d2-Brook-Wells
+ Date Submitted: September 3, 2025
+
+Target User Group:
+    Inexperienced Cooks 
+ 	    The main demographic for this application are inexperienced cooks, so college students, single people, and those in the age 
+         range of 18 - 26
+
+Problem Description:
+	    All the current food tracking apps use premade foods and just let you know when they are nearing their expiration date, but
+         what about food you have personally made, leftovers from a restaurant, or even food you were gifted?  When are those 
+         still okay to consume and when should you instead throw them out? Are they even safe to store in the first place?
+         This can cause excessive food waste or even lead to people getting seriously ill if they consume something that has been
+         stored improperly or for too long. 
+    
+ Evidence of the Problem:
+●	    In an article published this month by Stephanie Brown of VeryWell Health, “The #1 Hidden Danger of Reheating Rice”, 
+        rice should not be stored unless you are cooking it to immediately put in the fridge.
+
+●	    FoodSafety.gov’s Cold Food Storage Chart notes that things that can be properly frozen are safe to consume indefinitely;   
+        however, the quality of the items will go down considerably over time. 
+
+●	    According to Azanaw, et al. in “Food Safety Knowledge, Attitude, and Practice of College Students, Ethiopia, 2019:  
+        A Cross-Sectional Study”, while college students are not the most at risk for food borne illness they are lacking in 
+        knowledge of food safety, with the questions that the least people answered correctly (only 19%), being the ones on how to
+         properly handle leftovers.
+
+“How Might We” Statement:
+	How might we more efficiently and accurately track the spoilage of homemade foods and leftovers for inexperienced cooks,
+    so that we can cut down on food wastage and prevent food born illnesses?
+
+User Persona:
+    Name: Camden Lazlo
+     Age: 21
+     Occupation: Fulltime student 
+     Location: Murray, Ky
+     Goals: Be able to eat without worrying about food being spoiled, stretch meals over several days, have the ability to 
+            store leftovers comfortably.
+     Frustrations: low to no income so he can’t afford to waste food, brings leftovers home just to toss them in the trash because
+            he doesn’t know if it’s safe to put them in the fridge, leaves all food in the fridge for the same amount of time 
+            regardless of what the food is.
+     Technology Comfort Level: High (uses a smartphone daily, Laptop for sc̶h̶o̶o̶l̶w̶o̶r̶k gaming )
+
+Ethical Lens Applied:
+Principle: Safety in food storage
+●	Application: This problem can create an unsafe situation for people who don’t know how to properly store food, this can lead
+             to sickness, food waste, or shying away from cooking altogether 
+
+●	Stakeholders Impacted: Inexperienced cooks, college students, potluck enjoyers 
+
+●	Professional Standard: Aligns with FoodSafetly.gov’s advice on handling food and how long food items can be kept in cold storage
+             (fridge or freezer) before spoiling or degrading in quality.
